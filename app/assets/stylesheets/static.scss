@@ -1,0 +1,16 @@
+// Place all the styles related to the static controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import url(https://fonts.googleapis.com/css?family=Arvo:700);
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import "components/*"; 
+
+body {
+    font-family: "Open Sans"
+ }
+ 
+h1 {
+    text-shadow:1px 1px 3px #999
+}

@@ -1,0 +1,48 @@
+.navbar {
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+    padding-top: 1em;
+    padding-left: 0.2em;
+}
+
+.navbar-logo {
+padding:0.2em;
+
+}
+
+.btn-blue {
+   color: white;
+   background-color: orangered;
+   border: 1em;
+   border-radius: 2em;
+   padding: 1em;
+   color: #fff;
+   font-family: Arvo;
+   font-weight: bold;
+   letter-spacing: 0.1em;
+   height: 20px;
+   margin-right: 5px;
+   box-shadow:1px 1px 3px #999;
+}
+
+
+.btn-blue:hover {
+   -webkit-filter: invert(.9) saturate(6);
+   filter: invert(.9) saturate(6);
+}
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    width: 6em;
+    border-radius: 50%;
+}
+
+.avatar:hover {
+   -webkit-filter: opacity(.5);
+   filter: opacity(.5);
+}
