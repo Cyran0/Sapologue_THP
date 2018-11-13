@@ -1,24 +1,44 @@
-# README
+# Bonjour Moussaillon.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-------------------------------------------------------------------------------
+Ce site est le site du Sapeur.
 
-Things you may want to cover:
+Prends bien soin d'être élégamment habillé, et délicatement parfumé en t'y rendant.
 
-* Ruby version
+-------------------------------------------------------------------------------
 
-* System dependencies
+Il contient les éléments suivants, sapeurisés bien entendu :
 
-* Configuration
+un bouton digne de ce nom
+un avatar
+une card
+une navbar
+une tabs
 
-* Database creation
+Les Stylesheets sont segmentés en composants .scss, tu en trouveras 4 :
+card.scss
+container.scss
+navbar.scss
+tabs.scss
 
-* Database initialization
+-------------------------------------------------------------------------------
 
-* How to run the test suite
+Tu trouveras ci-après, cher Sapeur, le lien Heroku :
 
-* Services (job queues, cache servers, search engines, etc.)
+https://sapeur-thp.herokuapp.com/
 
-* Deployment instructions
+-------------------------------------------------------------------------------
 
-* ...
+Il a été fait sous app rails, si tu veux le tester en local. Tu peux donc faire un :
+
+Git clone https://github.com/Cyran0/Sapologue_THP.git
+
+- cd Sapologue_THP/
+
+- bin/rake db:create
+
+- rails s
+
+-------------------------------------------------------------------------------
+
+Mon pseudo Slack : Cyran0
