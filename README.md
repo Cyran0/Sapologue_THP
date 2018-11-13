@@ -10,16 +10,16 @@ Prends bien soin d'être élégamment habillé, et délicatement parfumé en t'y
 Il contient les éléments suivants, sapeurisés bien entendu :
 
 un bouton digne de ce nom
-un avatar
-une card
-une navbar
-une tabs
+- un avatar
+- une card
+- une navbar
+- une tabs
 
 Les Stylesheets sont segmentés en composants .scss, tu en trouveras 4 :
-card.scss
-container.scss
-navbar.scss
-tabs.scss
+- card.scss
+- container.scss
+- navbar.scss
+- tabs.scss
 
 -------------------------------------------------------------------------------
 
