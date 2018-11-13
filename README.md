@@ -21,6 +21,8 @@ Les Stylesheets sont segmentés en composants .scss, tu en trouveras 4 :
 - navbar.scss
 - tabs.scss
 
+En bon sapologue, et n'étant pas précisé dans la consigne, cette "Profile page" est dédiée à la sapologie et l'un de ses délicats représentants, Samuel L. Jackson dit le "Sapologiste".
+
 -------------------------------------------------------------------------------
 
 Tu trouveras ci-après, cher Sapeur, le lien Heroku :
